@@ -1,2 +1,0 @@
-# vida
-python
